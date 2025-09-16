@@ -2,6 +2,8 @@
 
 Página de aterrizaje interactiva y visualmente atractiva diseñada para ser activada mediante una etiqueta NFC. Al escanear la etiqueta con un dispositivo móvil, se abre esta página, que sirve como un puente elegante para redirigir al usuario a una canción específica en Spotify.
 
+<img width="1756" height="895" alt="image" src="https://github.com/user-attachments/assets/23c80ab6-f8db-487b-96af-61fa13a21f5f" />
+
 -----
 
 ## ✨ Características
