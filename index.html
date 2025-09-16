@@ -1,12 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TUYO - MORA</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Abrir en Spotify</title>
+    <style>
+        body { display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background-color: #121212; font-family: sans-serif; }
+        .spotify-button {
+            background-color: #1DB954; /* Color verde de Spotify */
+            color: white;
+            border: none;
+            padding: 20px 40px;
+            font-size: 24px;
+            border-radius: 50px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+    </style>
 </head>
 <body>
-    <script src="index.js" defer></script>
+
+    <button class="spotify-button" onclick="openSpotify()">
+        Abrir en Spotify
+    </button>
+
+    <script src="index.js"></script>
 </body>
 </html>
